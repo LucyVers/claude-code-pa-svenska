@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Miljövariabler och hemligheter
+.env
+.env.local
+*.key
+
+# Editor
+.vscode/
+.idea/
+
+# Node (om det blir aktuellt senare)
+node_modules/
+
+# Privata/interna arbetsdokument (inte för målgruppen)
+internt/

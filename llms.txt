@@ -1,0 +1,30 @@
+# Claude Code på svenska
+
+> Svenskspråkig kurs om Claude Code, Anthropics AI-agent för
+> mjukvaruutveckling. Skapad av Lucy Sonberg för svensktalande som vill
+> lära sig arbeta med AI-agenter i sin utveckling.
+
+## Om författaren
+
+Lucy Sonberg, utexaminerad Data Manager från TUC Yrkeshögskola,
+specialiserad inom datastyrning och systemarkitektur. Fokusområden:
+GDPR-säkra AI-system, agentisk AI och automation.
+[LinkedIn](https://www.linkedin.com/in/lucysonberg) ·
+[GitHub](https://github.com/LucyVers)
+
+## Om projektet
+
+- [README](README.md): Översikt, vad Claude Code är, vem kursen är för, om Lucy Sonberg.
+- [Kursplan](KURSPLAN.md): Fullständig innehållsförteckning över kursens lektioner.
+
+## Börja här
+
+- [Vart detta leder](borja-har/01-vart-detta-leder.md): Vad du kan ha byggt med Claude Code när kursen är klar.
+- [Du kan inte göra fel](borja-har/02-du-kan-inte-gora-fel.md): Varför nybörjare inte kan förstöra något i Claude Code.
+- [Från chatt till Claude Code — varför du är här](borja-har/03-fran-chatt-till-claude-code.md): Skillnaden mellan att chatta med AI och att låta Claude Code utföra arbetet.
+- [Claude Code: appen eller terminalen](borja-har/04-appen-eller-terminalen.md): De två sätten att köra Claude Code, och vilket att välja.
+- [Installera Claude Code](borja-har/05-installera-claude-code.md): Installation, felsökning och vanliga nybörjarmisstag.
+
+## Steg 1 — Minne (Memory)
+
+- [Importera ditt minne från ChatGPT eller Gemini till Claude Code](steg1/01-importera-minne.md): Hur du för över tidigare AI-historik till Claude Code.
