@@ -2,7 +2,8 @@
 
 Det här är kursplanen jag bygger upp i takt med att jag själv lär mig
 Claude Code och utvecklas som byggare. Nedan hittar du länkar till de
-lektioner som redan är klara.
+lektioner som redan är klara. Stöter du på ord du inte känner igen,
+kolla [ORDLISTA.md](ORDLISTA.md).
 
 ---
 
@@ -16,6 +17,8 @@ fokus. Fler lektioner läggs till här allt eftersom.
 - **[Från chatt till Claude Code — varför du är här](borja-har/03-fran-chatt-till-claude-code.md)**
 - **[Claude Code: appen eller terminalen — vilken ska du välja?](borja-har/04-appen-eller-terminalen.md)**
 - **[Installera Claude Code](borja-har/05-installera-claude-code.md)**
+- **[Gränssnittet och arbetsflödet i Claude Code](borja-har/06-granssnittet-och-arbetsflodet.md)**
+- **[Prompter som hjälper dig komma igång med Claude Code](borja-har/07-promptpaket-for-nyborjare.md)**
 
 ---
 
@@ -40,4 +43,4 @@ Fler lektioner läggs till här allt eftersom.
 ---
 
 **Skapat av [Lucy Sonberg](https://www.linkedin.com/in/lucysonberg)** · [GitHub](https://github.com/LucyVers)
-Licensierat under [CC BY-NC-ND 4.0](LICENSE) — dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.
+Licensierat under [CC BY-NC-ND 4.0](LICENSE). Dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.

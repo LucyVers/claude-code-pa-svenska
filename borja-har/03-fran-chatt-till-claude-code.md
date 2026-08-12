@@ -23,7 +23,8 @@ Ett steg upp. Claude jobbar med dig i ett och samma fönster, och du ser
 en enskild sak ta form: ett dokument, en graf, ett utkast du kan
 justera. Den kan till och med nå några av dina verktyg. Bättre, för nu
 får du något byggt, inte bara text. Men det är fortfarande en
-arbetsbänk — du och Claude formar en sak tillsammans, i en sandlåda.
+arbetsbänk — du och Claude formar en sak tillsammans, i en
+[sandlåda](../ORDLISTA.md#sandlåda).
 
 ## Claude Code — den utför arbetet
 
@@ -47,4 +48,4 @@ vidare hade rätt. Följ den.
 ---
 
 **Skapat av [Lucy Sonberg](https://www.linkedin.com/in/lucysonberg)** · [GitHub](https://github.com/LucyVers)
-Licensierat under [CC BY-NC-ND 4.0](../LICENSE) — dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.
+Licensierat under [CC BY-NC-ND 4.0](../LICENSE). Dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.

@@ -5,16 +5,16 @@
 *Del av kursen [Claude Code på svenska](../README.md) — Börja här.*
 
 Det tar omkring tre minuter att installera Claude Code och vara redo
-att skriva din första instruktion — väljer du skrivbordsappen. Väljer
+att skriva din första instruktion, väljer du skrivbordsappen. Väljer
 du terminalen istället krävs att Node.js och npm redan finns på din
 dator, vilket vi kommer till längre ner.
 
-![Installera Claude Code — från nedladdning till första prompten](bilder/installera-claude-code-fem-steg.png)
+![Installera Claude Code, från nedladdning till första prompten](bilder/installera-claude-code-fem-steg.png)
 
 ## Installera skrivbordsappen (rekommenderas)
 
 Skrivbordsappen kör exakt samma motor och samma inställningar som
-terminalversionen av Claude Code — bara med fönster och knappar
+terminalversionen av Claude Code, bara med fönster och knappar
 istället för en svart textskärm. Ingen utvecklarmiljö, inget SDK,
 ingen konfigurationsfil. Bara ladda ner, logga in, klart. De flesta
 använder aldrig terminalen, och det behöver du inte heller.
@@ -23,23 +23,23 @@ använder aldrig terminalen, och det behöver du inte heller.
 2. Klicka på "Download Claude Code" och välj macOS eller Windows.
 3. Öppna filen du laddade ner. På Mac drar du den till Program (Applications). På Windows kör du installationsprogrammet.
 4. Öppna appen. Du hamnar på en inloggningsskärm.
-5. Logga in med ditt Claude-konto (samma konto som på claude.ai). Du ser ett rent fönster med en enda inmatningsruta längst ner. Det är allt — du är igång.
+5. Logga in med ditt Claude-konto (samma konto som på claude.ai). Du ser ett rent fönster med en enda inmatningsruta längst ner. Det är allt. Du är igång.
 
 När Claude Code ber om en mapp, skapa en ny tom mapp (kalla den till
 exempel `mitt-projekt`) och öppna den. Det blir din hemmabas för allt
-du bygger i kursen. Mappen behöver inte innehålla något — Claude Code
+du bygger i kursen. Mappen behöver inte innehålla något. Claude Code
 vill bara ha en plats att jobba i.
 
 ## Terminalalternativet (hoppa över om du är osäker)
 
-Det här kräver att Node.js och npm redan är installerat på din dator —
-har du inte det, använd skrivbordsappen istället.
+Det här kräver att Node.js och npm redan är installerat på din dator.
+Har du inte det, använd skrivbordsappen istället.
 
 1. Öppna terminalen och installera Claude Code globalt: `npm i -g @anthropic-ai/claude-code`
 2. Starta det genom att skriva `claude` och trycka enter.
 
 Samma motor som skrivbordsappen, inga fönster. Du kan alltid växla dit
-senare — du behöver det inte idag.
+senare. Du behöver det inte idag.
 
 ## Vanliga nybörjarmisstag
 
@@ -48,12 +48,12 @@ att förbereda. Ladda ner, logga in, klart.
 
 **Att ge upp vid ett felmeddelande.** Nästan alla installationsfel går
 att lösa på någon minut. Läs felmeddelandet, sök på det, eller fråga
-Claude själv — chansen är stor att någon annan stött på exakt samma
+Claude själv. Chansen är stor att någon annan stött på exakt samma
 fel.
 
 **Att tro att terminalen gör dig till en "riktig" utvecklare.** Det
 gör den inte. Appen och terminalen delar samma motor och samma
-inställningar — ingen skillnad i vad du kan bygga. Börja med det du
+inställningar. Ingen skillnad i vad du kan bygga. Börja med det du
 känner dig mest bekväm med.
 
 ## Felsökning — de vanligaste problemen
@@ -72,12 +72,12 @@ kräver ett uttryckligt godkännande.
 
 **"Git krävs för lokala sessioner."** Du har inte gjort något fel. Git
 är ett gratis verktyg som Claude Code använder i bakgrunden för att
-spara ögonblicksbilder av ditt arbete — det är det som driver
+spara ögonblicksbilder av ditt arbete. Det är det som driver
 ångra-knappen.
 
 På Mac: öppna Terminal-appen, skriv `git --version`, tryck enter.
 Datorn visar ett meddelande om att utvecklarverktygen saknas och
-erbjuder sig att installera dem — det är inget fel, bara en
+erbjuder sig att installera dem. Det är inget fel, bara en
 installationsfråga. En separat popup dyker upp och frågar om du vill
 installera "command line developer tools" (den gömmer sig ibland
 bakom terminalfönstret). Klicka Installera och vänta några minuter.
@@ -97,11 +97,15 @@ inget manuellt. Skriv istället in det här direkt i Claude Code:
 > användarinställningsfil.
 
 Starta om Claude Code, så är det löst. Sitter du ändå fast, skriv
-`claude doctor` — det talar om exakt vad som saknas.
+`claude doctor`. Den talar om exakt vad som saknas.
 
-**Nästa:** [Steg 1 — Importera ditt minne från ChatGPT eller Gemini](../steg1/01-importera-minne.md)
+**Nästa:** [Gränssnittet och arbetsflödet i Claude Code](06-granssnittet-och-arbetsflodet.md)
+
+Claude Code utvecklas snabbt. Det som stämmer idag kan vara förändrat
+om några månader. Jag uppdaterar allt eftersom jag hinner och hittar
+ny information.
 
 ---
 
 **Skapat av [Lucy Sonberg](https://www.linkedin.com/in/lucysonberg)** · [GitHub](https://github.com/LucyVers)
-Licensierat under [CC BY-NC-ND 4.0](../LICENSE) — dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.
+Licensierat under [CC BY-NC-ND 4.0](../LICENSE). Dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.

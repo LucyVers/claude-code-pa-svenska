@@ -30,6 +30,24 @@ som inte gjorde det, och ber den uppdatera sig utifrån det den just
 lärt sig. Det där fram-och-tillbaka är själva arbetet — inte ett tecken
 på att du gjort fel.
 
+## Två säkerhetsnät, redan på plats
+
+Det här är inte bara en känsla, det finns konkreta mekanismer bakom.
+
+**`/rewind`.** Claude Code sparar automatiskt en checkpoint innan varje
+ändring den gör. Skriv `/rewind` (eller tryck Escape två gånger i ett
+tomt inmatningsfält) för att backa till en tidigare punkt, filerna,
+konversationen, eller båda. Den körs redan, du behöver inte sätta upp
+något.
+
+**Git.** Ett permanent sparläge du alltid kan gå tillbaka till. Du
+behöver inte kunna kommandona, säg bara till Claude "committa det här
+som en checkpoint" så är det låst.
+
+Går något fel kostar det dig i värsta fall några minuters arbete. Det
+är skillnaden mellan att ha en checkpoint att falla tillbaka på och
+att inte ha någon alls.
+
 ## Du lär dig snabbast genom att prata mer
 
 Förstår du inte varför Claude gjorde något, eller hur du ska göra
@@ -44,4 +62,4 @@ Börja bara.
 ---
 
 **Skapat av [Lucy Sonberg](https://www.linkedin.com/in/lucysonberg)** · [GitHub](https://github.com/LucyVers)
-Licensierat under [CC BY-NC-ND 4.0](../LICENSE) — dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.
+Licensierat under [CC BY-NC-ND 4.0](../LICENSE). Dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.

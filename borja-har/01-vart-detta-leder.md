@@ -20,7 +20,7 @@ har något att visa upp:
 
 - En publicerad webbsida på en publik URL du kan skicka till vem som helst
 - En landningssida byggd kring en enda handling, med ett formulär som faktiskt levererar leadet till dig
-- Sparade Skills och ett MCP-paket, så att Claude når riktiga verktyg och inte bara svarar i text
+- Sparade [Skills](../ORDLISTA.md#skills) och ett [MCP](../ORDLISTA.md#mcp)-paket, så att Claude når riktiga verktyg och inte bara svarar i text
 - En agent som går på schema och sköter en syssla du aldrig behöver göra för hand igen
 - Ett betalt uppdrag levererat till en riktig kund, eller din egen verksamhet automatiserad från början till slut
 
@@ -41,4 +41,4 @@ av kursen bygger mot den.
 ---
 
 **Skapat av [Lucy Sonberg](https://www.linkedin.com/in/lucysonberg)** · [GitHub](https://github.com/LucyVers)
-Licensierat under [CC BY-NC-ND 4.0](../LICENSE) — dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.
+Licensierat under [CC BY-NC-ND 4.0](../LICENSE). Dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.

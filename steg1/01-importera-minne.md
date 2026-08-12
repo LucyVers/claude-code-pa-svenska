@@ -5,13 +5,13 @@
 *Del av kursen [Claude Code på svenska](../README.md) — Steg 1: Minne.*
 
 Har du redan pratat mycket med ChatGPT eller Gemini och byggt upp en
-historik där de lärt känna dig? Du behöver inte börja om från noll —
+historik där de lärt känna dig? Du behöver inte börja om från noll.
 Claude Code kan importera det du redan delat med en annan AI, så du
 slipper förklara samma saker igen.
 
 ## Använder du en annan LLM?
 
-Du kan föra över det mesta av vad den redan vet om dig till Claude —
+Du kan föra över det mesta av vad den redan vet om dig till Claude,
 snabbt, och utan att skriva om allt för hand.
 
 ### I Claude Desktop-appen:
@@ -43,7 +43,11 @@ det den redan vet om dig.
 
 **3)** Säg till Claude: *"spara dessa minnen om mig"*
 
+Claude Code utvecklas snabbt. Det som stämmer idag kan vara förändrat
+om några månader. Jag uppdaterar allt eftersom jag hinner och hittar
+ny information.
+
 ---
 
 **Skapat av [Lucy Sonberg](https://www.linkedin.com/in/lucysonberg)** · [GitHub](https://github.com/LucyVers)
-Licensierat under [CC BY-NC-ND 4.0](../LICENSE) — dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.
+Licensierat under [CC BY-NC-ND 4.0](../LICENSE). Dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.

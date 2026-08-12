@@ -1,7 +1,7 @@
 # Claude Code på svenska
 
-En svenskspråkig guide och kurs i Claude Code — AI-assisterad kodning — 
-skapad för dig som vill lära dig arbeta med AI-agenter i din utveckling, 
+En svenskspråkig guide och kurs i Claude Code, AI-assisterad kodning,
+skapad för dig som vill lära dig arbeta med AI-agenter i din utveckling,
 utan att behöva förstå allt på engelska först.
 
 ## Vad är Claude Code?
@@ -17,13 +17,15 @@ konceptet steg för steg, på svenska.
 - Nybörjare som aldrig använt en AI-kodassistent förut
 - Utvecklare som vill gå från "prova lite" till att faktiskt förstå hur det fungerar
 
-Inga förkunskaper krävs — varje begrepp förklaras innan det används.
+Inga förkunskaper krävs. Varje begrepp förklaras innan det används.
 
 ## Vad du lär dig
 
-Kursen är uppdelad i steg (se [KURSPLAN.md](KURSPLAN.md) för hela översikten):
+Kursen är uppdelad i steg (se [KURSPLAN.md](KURSPLAN.md) för hela
+översikten, och [ORDLISTA.md](ORDLISTA.md) för ord och begrepp du
+stöter på längs vägen):
 
-- **Börja här:** Grunderna — varför du är här, hur Claude Code fungerar, och hur du installerar det
+- **Börja här:** Grunderna, varför du är här, hur Claude Code fungerar och hur du installerar det
 - **Steg 1 — Minne:** Hur Claude kommer ihåg vem du är och hur du vill jobba
 - Fler steg läggs till allt eftersom kursen växer
 
@@ -31,33 +33,37 @@ Kursen är uppdelad i steg (se [KURSPLAN.md](KURSPLAN.md) för hela översikten)
 
 Jag är Lucy Sonberg, utexaminerad Data Manager från TUC Yrkeshögskola med 
 specialisering inom datastyrning och systemarkitektur. Under min LIA på 
-kulturscenen Inkonst byggde jag ett automatiserat dataekosystem helt utan 
-IT-budget — och såg på nära håll vad som händer när en organisation 
+kulturscenen Inkonst byggde jag ett automatiserat dataekosystem helt utan
+IT-budget. Jag såg på nära håll vad som händer när en organisation
 saknar datastyrning.
 
 Jag bygger det här för att jag vill vara med där tekniken faktiskt 
 utvecklas, inte hänga fast vid gamla system och lösningar när nya sätt 
-att jobba redan finns. Datastyrning är ofta tungrott och manuellt — jag 
-är nyfiken på hur automation och generativ AI kan förenkla det i grunden, 
-och det får jag bara reda på genom att själv bygga, testa och lära mig 
+att jobba redan finns. Datastyrning är ofta tungrott och manuellt. Jag
+är nyfiken på hur automation och generativ AI kan förenkla det i grunden,
+och det får jag bara reda på genom att själv bygga, testa och lära mig
 på riktigt.
 
 **Fokusområden:**
 - Datastyrning och systemarkitektur
-- GDPR-säkra AI-system — integritet inbyggt från start, inte som eftertanke
+- GDPR-säkra AI-system, integritet inbyggt från start, inte som eftertanke
 - Agentisk AI och automation
 
-Jag kombinerar djup förståelse för datastyrning med praktisk kompetens 
-inom agentisk AI — och min framgång mäts i hur lite du behöver mig när du 
+Jag kombinerar djup förståelse för datastyrning med praktisk kompetens
+inom agentisk AI. Min framgång mäts i hur lite du behöver mig när du
 väl lärt dig det här.
 
 📍 Stockholm · [LinkedIn](https://www.linkedin.com/in/lucysonberg) · [GitHub](https://github.com/LucyVers)
 
 ## Status
 
-🟡 Under uppbyggnad — Börja här är klar, Steg 1 (Minne) pågår. Nytt material läggs till löpande.
+🟡 Under uppbyggnad. Börja här är klar, Steg 1 (Minne) pågår. Nytt material läggs till löpande.
+
+Claude Code utvecklas snabbt. Det som stämmer idag kan vara förändrat
+om några månader. Jag uppdaterar allt eftersom jag hinner och hittar
+ny information.
 
 ---
 
 **Skapat av [Lucy Sonberg](https://www.linkedin.com/in/lucysonberg)** · [GitHub](https://github.com/LucyVers)
-Licensierat under [CC BY-NC-ND 4.0](LICENSE) — dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.
+Licensierat under [CC BY-NC-ND 4.0](LICENSE). Dela gärna med kredit, hör av dig för kommersiell användning eller institutionell licensiering.
