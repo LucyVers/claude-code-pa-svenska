@@ -8,9 +8,8 @@ Claude Code kan bygga nästan vad som helst. Den kan inte tala om vad
 du ska bygga.
 
 Den delen är din, och det är den delen de flesta hoppar över. Här
-samlar jag prompter som hjälper dig komma vidare, både med att hitta
-din riktning och med att jobba smartare i Claude Code. Jag fyller på
-listan allt eftersom jag hittar fler som är värda att dela.
+samlar jag prompter som hjälper dig jobba smartare i Claude Code. Jag
+fyller på listan allt eftersom jag hittar fler som är värda att dela.
 
 > [!NOTE]
 > Prompterna på den här sidan står på engelska, både de jag skriver
@@ -18,24 +17,15 @@ listan allt eftersom jag hittar fler som är värda att dela.
 > originalspråket, och för citerade prompter är det viktigt att orden
 > stämmer exakt.
 
-## Hitta din riktning
+## Jobba smartare
 
-Prompter som ställer frågor istället för att ge svar, om din
-målgrupp, din prissättning och vad du bör fokusera på just nu. Varje
-prompt landar i något konkret du kan använda direkt.
-
-Börja med den första. Den pekar dig vidare till nästa steg utifrån var
-du står. Du behöver inte köra alla, bara det som känns relevant just
-nu.
+Ordningen här följer hur du faktiskt jobbar: hur du sätter igång, hur
+du jobbar medan Claude Code bygger, hur du håller allt hanterbart ju
+längre en session pågår, och hur du håller tempot över flera veckor.
+Du behöver inte köra alla, bara det som känns relevant just nu.
 
 Ny i Claude Code? Skapa en tom mapp, öppna den i Claude Code, och
 klistra in prompten.
-
-## Jobba smartare
-
-Ordningen här följer hur en session faktiskt utvecklas: hur du sätter
-igång, hur du jobbar medan Claude Code bygger, och hur du håller allt
-hanterbart ju längre sessionen pågår.
 
 **Öppningsprompt för [plan mode](../ORDLISTA.md#plan-mode).** Boris
 Cherny, en av grundarna bakom Claude Code, berättade att han alltid
@@ -47,6 +37,7 @@ det misstaget tidigt.
 Kopiera prompten nedan och byt ut det som står inom hakparenteser:
 
 > [!NOTE]
+>
 > ```
 > I want to build [WRITE YOUR REQUEST HERE]. Before writing any code, stay in
 > plan mode and help me define the problem in detail. Ask me clarifying
@@ -65,6 +56,7 @@ exakt vad du vill uppnå innan du ber om något, minskar risken för
 generiska förslag rejält.
 
 > [!NOTE]
+>
 > ```
 > Treat yourself as a brilliant contractor I just hired who has never
 > seen my project. Here is the context: [BACKGROUND]. Here are my
@@ -79,6 +71,7 @@ förlänger din sessionsgräns rejält, utan att tappa kvalitet där det
 faktiskt räknas.
 
 > [!NOTE]
+>
 > ```
 > Run /model and switch me to 'Opus plan' so planning runs on Opus and
 > execution automatically drops to Sonnet. From now on use Sonnet as the
@@ -93,6 +86,7 @@ i tydliga, små steg blir varje enskild uppgift lättare att göra rätt,
 och du slipper sessioner som spårar ur.
 
 > [!NOTE]
+>
 > ```
 > Take this idea — [YOUR BIG IDEA] — and break it into the smallest
 > possible atomic tasks, in build order. Show me the full task list
@@ -108,6 +102,7 @@ bitarna hänger ihop kan du också ifrågasätta och felsöka när något
 krånglar.
 
 > [!NOTE]
+>
 > ```
 > Whenever you recommend a tech choice, library, or approach I might not
 > understand, stop and explain it to me in simple terms before we
@@ -121,6 +116,7 @@ en del av arbetet istället för ett separat steg du kanske hoppar över.
 Claude bygger, kontrollerar och fixar innan den går vidare.
 
 > [!NOTE]
+>
 > ```
 > When you build [WHAT WE'RE BUILDING], add verification steps directly
 > into your to-do list: after building, take a screenshot and check it
@@ -135,6 +131,7 @@ gör jobbet åt dig, och håller dina API-nycklar säkra i en `.env`-fil
 istället för i chatten.
 
 > [!NOTE]
+>
 > ```
 > I want to install [TOOL NAME]. Here is the documentation: [DOCS OR
 > GITHUB URL]. First check what I already have installed, then install
@@ -150,6 +147,7 @@ informationen alltid framför dig. Du behöver
 inte komma ihåg att kolla själv.
 
 > [!NOTE]
+>
 > ```
 > Run /statusline and set up a status line that always shows my current
 > directory, the model I'm using, a visual progress bar of my context
@@ -163,6 +161,7 @@ undvika långa sessioner, utan att sammanfatta läget innan du startar
 om, så du kan fortsätta där du var utan att förlora något.
 
 > [!NOTE]
+>
 > ```
 > We're getting deep into this session. Give me a full but concise
 > summary of everything we've done, every decision we locked in, the
@@ -172,7 +171,25 @@ om, så du kan fortsätta där du var utan att förlora något.
 > of the context window.
 > ```
 
-**Nästa:** [Steg 1, Importera ditt minne från ChatGPT eller Gemini](../steg1/01-importera-minne.md)
+**Håll ett jämnt tempo, inte perfekt tempo.** Tid, inte svårighetsgrad,
+är det som stoppar flest. Har du bara en kort stund per kväll spelar
+det ingen roll hur bra nästa idé känns, hoppar du mellan projekt blir
+du aldrig klar med något. Lås ett enda bygge, jobba i korta pass, och
+lämna alltid en rad till dig själv om nästa steg. Räkna framsteg per
+vecka, inte per kväll.
+
+> [!NOTE]
+>
+> ```
+> I get about 60 minutes a night and I keep starting over on new ideas.
+> Help me lock in ONE build to finish. Ask me what's already
+> half-done, what's closest to shippable, and what I'd actually be
+> proud to post. Pick one for me, then break it into small nightly
+> moves I can each do in 45 minutes. End by giving me tonight's single
+> move so I can start right now.
+> ```
+
+**Nästa:** [Allt du behöver veta om terminalen](08-allt-om-terminalen.md) (frivillig fördjupning), eller direkt vidare till [Steg 1, Importera ditt minne från ChatGPT eller Gemini](../steg1/01-importera-minne.md)
 
 Claude Code utvecklas snabbt. Det som stämmer idag kan vara förändrat
 om några månader. Jag uppdaterar allt eftersom jag hinner och hittar

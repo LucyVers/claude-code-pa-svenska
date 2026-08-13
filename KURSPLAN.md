@@ -3,7 +3,8 @@
 Det här är kursplanen jag bygger upp i takt med att jag själv lär mig
 Claude Code och utvecklas som byggare. Nedan hittar du länkar till de
 lektioner som redan är klara. Stöter du på ord du inte känner igen,
-kolla [ORDLISTA.md](ORDLISTA.md).
+kolla [ORDLISTA.md](ORDLISTA.md). Vill du veta vilka verktyg som är
+värda att skaffa, kolla [VERKTYG.md](VERKTYG.md).
 
 ---
 
@@ -19,6 +20,7 @@ fokus. Fler lektioner läggs till här allt eftersom.
 - **[Installera Claude Code](borja-har/05-installera-claude-code.md)**
 - **[Gränssnittet och arbetsflödet i Claude Code](borja-har/06-granssnittet-och-arbetsflodet.md)**
 - **[Prompter som hjälper dig komma igång med Claude Code](borja-har/07-promptpaket-for-nyborjare.md)**
+- **[Allt du behöver veta om terminalen i Claude Code](borja-har/08-allt-om-terminalen.md)** (frivillig fördjupning)
 
 ---
 

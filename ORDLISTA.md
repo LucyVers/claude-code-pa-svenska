@@ -46,6 +46,11 @@ Kortform för Model Context Protocol, ett sätt för Claude att nå
 riktiga verktyg utanför sig själv, som databaser eller andra tjänster,
 istället för att bara svara i text.
 
+### npm
+
+Ett verktyg som laddar ner och installerar andra verktyg ett projekt
+behöver. Du kör det sällan själv, Claude gör det oftast åt dig.
+
 ### Plan mode
 
 Ett läge där Claude planerar innan den bygger något, istället för att

@@ -17,6 +17,7 @@ GDPR-säkra AI-system, agentisk AI och automation.
 - [README](README.md): Översikt, vad Claude Code är, vem kursen är för, om Lucy Sonberg.
 - [Kursplan](KURSPLAN.md): Fullständig innehållsförteckning över kursens lektioner.
 - [Ordlista](ORDLISTA.md): Ord och begrepp som används i kursen, i bokstavsordning.
+- [Verktyg](VERKTYG.md): Gratis eller nästan gratis verktyg värda att skaffa, i bokstavsordning.
 
 ## Börja här
 
@@ -26,7 +27,8 @@ GDPR-säkra AI-system, agentisk AI och automation.
 - [Claude Code: appen eller terminalen](borja-har/04-appen-eller-terminalen.md): De två sätten att köra Claude Code, och vilket att välja.
 - [Installera Claude Code](borja-har/05-installera-claude-code.md): Installation, felsökning och vanliga nybörjarmisstag.
 - [Gränssnittet och arbetsflödet i Claude Code](borja-har/06-granssnittet-och-arbetsflodet.md): De fyra delarna av skärmen och arbetsflödet du använder i varje session.
-- [Prompter som hjälper dig komma igång med Claude Code](borja-har/07-promptpaket-for-nyborjare.md): Prompter som hjälper dig hitta din riktning, plus tips som Boris Chernys plan mode-öppnare.
+- [Prompter som hjälper dig komma igång med Claude Code](borja-har/07-promptpaket-for-nyborjare.md): Prompter som hjälper dig jobba smartare i sessionen och hålla ett jämnt tempo över veckor.
+- [Allt du behöver veta om terminalen i Claude Code](borja-har/08-allt-om-terminalen.md): Frivillig fördjupning, hur du öppnar en terminal, läser skärmen, och `cd`/`ls`.
 
 ## Steg 1 — Minne (Memory)
 

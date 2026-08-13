@@ -40,9 +40,10 @@ tomt inmatningsfält) för att backa till en tidigare punkt, filerna,
 konversationen, eller båda. Den körs redan, du behöver inte sätta upp
 något.
 
-**Git.** Ett permanent sparläge du alltid kan gå tillbaka till. Du
-behöver inte kunna kommandona, säg bara till Claude "committa det här
-som en checkpoint" så är det låst.
+**Git.** Ett permanent sparläge du alltid kan gå tillbaka till. Du kan
+säga till Claude "committa det här som en checkpoint" så är det låst,
+men det är värt att lära sig grunderna i git själv också efterhand,
+inte bara luta dig på att Claude sköter det.
 
 Går något fel kostar det dig i värsta fall några minuters arbete. Det
 är skillnaden mellan att ha en checkpoint att falla tillbaka på och

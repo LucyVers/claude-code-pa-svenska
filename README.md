@@ -22,8 +22,9 @@ Inga förkunskaper krävs. Varje begrepp förklaras innan det används.
 ## Vad du lär dig
 
 Kursen är uppdelad i steg (se [KURSPLAN.md](KURSPLAN.md) för hela
-översikten, och [ORDLISTA.md](ORDLISTA.md) för ord och begrepp du
-stöter på längs vägen):
+översikten, [ORDLISTA.md](ORDLISTA.md) för ord och begrepp du stöter
+på längs vägen, och [VERKTYG.md](VERKTYG.md) för verktyg värda att
+skaffa):
 
 - **Börja här:** Grunderna, varför du är här, hur Claude Code fungerar och hur du installerar det
 - **Steg 1 — Minne:** Hur Claude kommer ihåg vem du är och hur du vill jobba

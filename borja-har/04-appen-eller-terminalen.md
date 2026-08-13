@@ -14,7 +14,9 @@ båda. Ingetdera är fel. De passar bara olika personer.
 Den klassiska textskärmen, och sättet Claude Code ursprungligen
 byggdes för. Snabb, tangentbordsdriven, och många erfarna byggare kör
 allt härifrån. Den ser kal ut i början, och du behöver den inte för
-att komma igång.
+att komma igång. Nyfiken på att testa den? [Allt du behöver veta om
+terminalen](08-allt-om-terminalen.md) tar dig igenom det, helt
+frivilligt.
 
 ## Skrivbordsappen
 
