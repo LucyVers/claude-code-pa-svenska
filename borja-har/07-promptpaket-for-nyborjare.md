@@ -189,7 +189,7 @@ vecka, inte per kväll.
 > move so I can start right now.
 > ```
 
-**Nästa:** [Allt du behöver veta om terminalen](08-allt-om-terminalen.md) (frivillig fördjupning), eller direkt vidare till [Steg 1, Importera ditt minne från ChatGPT eller Gemini](../steg1/01-importera-minne.md)
+**Nästa:** [Allt du behöver veta om terminalen](08-allt-om-terminalen.md) (frivillig fördjupning), eller direkt vidare till [Steg 1, Varför Claude Code behöver komma ihåg dig](../steg1/01-varfor-minnet-kommer-forst.md)
 
 Claude Code utvecklas snabbt. Det som stämmer idag kan vara förändrat
 om några månader. Jag uppdaterar allt eftersom jag hinner och hittar

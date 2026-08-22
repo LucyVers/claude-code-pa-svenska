@@ -32,4 +32,6 @@ GDPR-säkra AI-system, agentisk AI och automation.
 
 ## Steg 1 — Minne (Memory)
 
-- [Importera ditt minne från ChatGPT eller Gemini till Claude Code](steg1/01-importera-minne.md): Hur du för över tidigare AI-historik till Claude Code.
+- [Varför Claude Code behöver komma ihåg dig](steg1/01-varfor-minnet-kommer-forst.md): Varför minne är en multiplikator för resten av kursen, och vad du sätter upp innan du importerar historik.
+- [Importera ditt minne från ChatGPT eller Gemini till Claude Code](steg1/02-importera-minne.md): Hur du för över tidigare AI-historik till Claude Code.
+- [Bygg din globala CLAUDE.md i Claude Code](steg1/03-bygg-din-claude-md.md): Hur du får Claude att sammanfatta och spara ett minne om dig som läses vid varje session.

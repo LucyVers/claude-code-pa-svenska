@@ -43,6 +43,8 @@ det den redan vet om dig.
 
 **3)** Säg till Claude: *"spara dessa minnen om mig"*
 
+**Nästa:** [Bygg din globala CLAUDE.md i Claude Code](03-bygg-din-claude-md.md)
+
 Claude Code utvecklas snabbt. Det som stämmer idag kan vara förändrat
 om några månader. Jag uppdaterar allt eftersom jag hinner och hittar
 ny information.

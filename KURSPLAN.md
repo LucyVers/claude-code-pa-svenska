@@ -30,7 +30,9 @@ I det här steget lär du dig hur Claude kommer ihåg vem du är, hur du
 vill jobba, och vad som är viktigt för dig — så att du slipper förklara
 om och om igen.
 
-- **[Importera ditt minne från ChatGPT eller Gemini till Claude Code](steg1/01-importera-minne.md)**
+- **[Varför Claude Code behöver komma ihåg dig](steg1/01-varfor-minnet-kommer-forst.md)**
+- **[Importera ditt minne från ChatGPT eller Gemini till Claude Code](steg1/02-importera-minne.md)**
+- **[Bygg din globala CLAUDE.md i Claude Code](steg1/03-bygg-din-claude-md.md)**
 
 Fler lektioner läggs till här allt eftersom.
 

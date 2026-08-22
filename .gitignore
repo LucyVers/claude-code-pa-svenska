@@ -13,5 +13,3 @@
 # Node (om det blir aktuellt senare)
 node_modules/
 
-# Privata/interna arbetsdokument (inte för målgruppen)
-internt/
